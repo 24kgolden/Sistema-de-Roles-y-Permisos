@@ -67,7 +67,6 @@ A continuación, se incluyen imágenes para ilustrar el funcionamiento del siste
 8. **Editar Usuario**
 
     ![image](https://github.com/user-attachments/assets/cf2b59e6-e690-46a8-8b37-b45ebc370b62)
-> Reemplaza `ruta/a/imagen.png` con la ubicación real de las imágenes en el repositorio.
 
 ## Contribuciones
 
