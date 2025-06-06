@@ -60,7 +60,7 @@ A continuación, se incluyen imágenes para ilustrar el funcionamiento del siste
 4. **Alta Usuarios**
    ![image](https://github.com/user-attachments/assets/fe459ffc-7506-4122-8ef2-78e567e2fe94)
 
-4. **Editar Usuario**
+5. **Editar Usuario**
    ![image](https://github.com/user-attachments/assets/cf2b59e6-e690-46a8-8b37-b45ebc370b62)
 
 > Reemplaza `ruta/a/imagen.png` con la ubicación real de las imágenes en el repositorio.
