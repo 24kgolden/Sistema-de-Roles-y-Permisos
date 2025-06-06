@@ -49,19 +49,22 @@ Este proyecto es una aplicación desarrollada en **Java** utilizando **NetBeans*
 A continuación, se incluyen imágenes para ilustrar el funcionamiento del sistema:
 
 1. **Pantalla de inicio de sesión**
+   
    ![image](https://github.com/user-attachments/assets/64daaefe-347a-42dd-9c76-7b87328ada8c)
 
-2. **Interfaz para Administrador**
+3. **Interfaz para Administrador**
+   
    ![image](https://github.com/user-attachments/assets/53488166-8d32-4ef4-84e6-3e982076e8fc)
 
-3. **Interfaz para Usuario**
+5. **Interfaz para Usuario**
+   
    ![image](https://github.com/user-attachments/assets/623e989c-9e04-4e56-94f2-f39faa6bbc7a)
 
-4. **Alta Usuarios**
+7. **Alta Usuarios**
 
     ![image](https://github.com/user-attachments/assets/fe459ffc-7506-4122-8ef2-78e567e2fe94)
 
-6. **Editar Usuario**
+8. **Editar Usuario**
 
     ![image](https://github.com/user-attachments/assets/cf2b59e6-e690-46a8-8b37-b45ebc370b62)
 > Reemplaza `ruta/a/imagen.png` con la ubicación real de las imágenes en el repositorio.
