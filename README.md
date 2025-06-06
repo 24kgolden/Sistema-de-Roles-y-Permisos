@@ -1,50 +1,53 @@
-Sistema de Roles y Permisos con Login
-Este proyecto es una aplicación desarrollada en Java utilizando NetBeans como IDE. Implementa un sistema de gestión de roles y permisos con una funcionalidad de inicio de sesión que valida a los usuarios registrados. Dependiendo del rol asignado (Administrador o Usuario), se muestra una interfaz adaptada y se aplican permisos específicos.
+Gracias por la información adicional. Aquí tienes una versión actualizada de la descripción para tu repositorio:
 
-Características principales
-Gestión de Roles: Clasificación de usuarios en roles como Administrador y Usuario.
+---
 
-Permisos Personalizados: Control granular de funcionalidades según el rol del usuario.
+# Sistema de Roles y Permisos con Login
 
-Interfaz Dinámica: La aplicación ajusta su interfaz y opciones disponibles según el rol asignado.
+Este proyecto es una aplicación desarrollada en **Java** utilizando **NetBeans** como IDE. Implementa un sistema de gestión de roles y permisos con una funcionalidad de inicio de sesión que valida a los usuarios registrados. Dependiendo del rol asignado (Administrador o Usuario), se muestra una interfaz adaptada y se aplican permisos específicos.
 
-Base de Datos MySQL: Los datos de usuarios, roles y permisos se almacenan de forma segura en MySQL, usando XAMPP como servidor local.
+## Características principales
 
-Tecnologías utilizadas
-Lenguaje de Programación: Java
+* **Gestión de Roles**: Clasificación de usuarios en roles como Administrador y Usuario.
+* **Permisos Personalizados**: Control granular de funcionalidades según el rol del usuario.
+* **Interfaz Dinámica**: La aplicación ajusta su interfaz y opciones disponibles según el rol asignado.
+* **Base de Datos MySQL**: Los datos de usuarios, roles y permisos se almacenan de forma segura en MySQL, usando XAMPP como servidor local.
 
-IDE: NetBeans
+## Tecnologías utilizadas
 
-Base de Datos: MySQL (XAMPP)
+* **Lenguaje de Programación**: Java
+* **IDE**: NetBeans
+* **Base de Datos**: MySQL (XAMPP)
 
-Requisitos
-XAMPP (para el servidor MySQL).
+## Requisitos
 
-NetBeans IDE (o cualquier IDE compatible con Java).
+* XAMPP (para el servidor MySQL).
+* NetBeans IDE (o cualquier IDE compatible con Java).
+* JDK 8 o superior.
 
-JDK 8 o superior.
+## Configuración
 
-Configuración
-Clona este repositorio:
+1. Clona este repositorio:
 
-bash
-Copiar
-Editar
-git clone https://github.com/tu-usuario/tu-repositorio.git  
-Configura la base de datos:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-repositorio.git  
+   ```
+2. Configura la base de datos:
 
-Importa el archivo SQL (ubicado en /db) a tu servidor MySQL.
+   * Importa el archivo SQL (ubicado en `/db`) a tu servidor MySQL.
+   * Actualiza los parámetros de conexión en el archivo de configuración de la aplicación (por ejemplo, URL, usuario y contraseña de la base de datos).
+3. Abre el proyecto en NetBeans y compílalo.
+4. Ejecuta la aplicación desde el IDE o mediante el archivo ejecutable generado.
 
-Actualiza los parámetros de conexión en el archivo de configuración de la aplicación (por ejemplo, URL, usuario y contraseña de la base de datos).
+## Uso
 
-Abre el proyecto en NetBeans y compílalo.
+1. Inicia sesión con un usuario registrado en la base de datos.
+2. Explora las funcionalidades adaptadas al rol del usuario (Administrador o Usuario).
 
-Ejecuta la aplicación desde el IDE o mediante el archivo ejecutable generado.
+## Contribuciones
 
-Uso
-Inicia sesión con un usuario registrado en la base de datos.
+¡Toda contribución es bienvenida! Si tienes mejoras o sugerencias, no dudes en abrir un **issue** o enviar un **pull request**.
 
-Explora las funcionalidades adaptadas al rol del usuario (Administrador o Usuario).
+---
 
-Contribuciones
-¡Toda contribución es bienvenida! Si tienes mejoras o sugerencias, no dudes en abrir un issue o enviar un pull request.
+
