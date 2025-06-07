@@ -1,4 +1,4 @@
-Aquí tienes una versión actualizada con un apartado para imágenes:
+
 
 ---
 
